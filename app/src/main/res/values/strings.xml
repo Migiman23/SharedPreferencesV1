@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="Titulo">SharedPreferences_App</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Edad">Edad</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Cargar">Cargar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
